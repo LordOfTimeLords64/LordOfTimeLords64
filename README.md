@@ -10,7 +10,7 @@ I'm Michael Komnick, a computer science student at the University of the South (
 ## Class Projects
 * [Survive The Students](https://github.com/LordOfTimeLords64/Game-SurviveTheStudents) - This is the source code and files for a video game I made in my CSCI 276 course (Multimedia Programming & Design). It was made using Processing, a flexible software sketchbook that uses Java.
 * [Rate My Dorm](https://github.com/LordOfTimeLords64/rate-my-dorm) - Rate My Dorm is my final project for CSCI 284 (Database Design with Web Applications). It was a website that allowed students to rate dorms at the University of the South (Sewanee). Users can create an account to rate dorms, ask and answer questions about dorms, and provide comments about their ratings.
-* [Space Cowboy 2D Platformer](https://github.com/Yosenky/Space-Cowboy-2D-Platformer) - This is a video game for my Game Development with Unity independent study. My main contribution was adding enemy pathfinding using the [A* Pathfinding Project](https://arongranberg.com/astar/#)
+* [Space Cowboy 2D Platformer](https://github.com/Yosenky/Space-Cowboy-2D-Platformer) - This is a video game for my Game Development with Unity independent study. My main contribution was adding enemy pathfinding using the [A* Pathfinding Project](https://arongranberg.com/astar/#).
 * [Flerpy Derp](https://github.com/LordOfTimeLords64/FlerpyDerp) - This is another video game I made during my Game Development with Unity independent study. It is my take on Flappy Bird.
 
 <!--
