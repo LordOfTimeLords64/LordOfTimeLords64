@@ -1,5 +1,5 @@
 # Michael J. Komnick
-I'm Michael Komnick, a computer science student at the University of the South (C'24). I'm also the current assistant director of [Sewanee DataLab](https://new.sewanee.edu/sewanee-datalab/). Welcome to my GitHub page!
+I'm Michael Komnick, a 6-12 STEM teacher. I have a B.S. in computer science from The University of the South. I'm also the former assistant director of [Sewanee DataLab](https://new.sewanee.edu/sewanee-datalab/) (2023 - 2024). Welcome to my GitHub page!
 
 ## GitHub Organizations
 * [Sewanee DataLab](https://github.com/sewaneedata)
